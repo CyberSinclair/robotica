@@ -1,11 +1,12 @@
 {
-    "name": "Robotica",
+    "name": "Robotica2",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "cutebot": "github:elecfreaks/pxt-cutebot#v6.1.14"
+        "cutebot": "github:elecfreaks/pxt-cutebot#v6.1.14",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
     },
     "files": [
         "main.blocks",
